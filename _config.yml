@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Shizhe Peng"
   avatar           : "pengsz.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Changsha, Hunan, China"
-  employer         : "Central South University"
+  bio              : "Assistant Professor, Central South University"
+  location         : "Changsha, China"
+  employer         : ""
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.sg/citations?user=V2KUfigAAAAJ&hl"
   email            : "pengshiz at 126.com"
