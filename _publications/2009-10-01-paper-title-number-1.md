@@ -1,14 +1,14 @@
 ---
-title: "A Preventive Maintenance Policy with Usage-Dependent Failure Rate Thresholds Under Two-Dimensional Warranties"
+title: "A review of condition-based maintenance: Its prognostic and operational aspects"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020-11-04
-venue: 'IISE Transactions'
+excerpt: 'Condition-based maintenance (CBM) detects early signs of failure and dictates when maintenance should be performed based on the actual condition of a system. In this paper, we first review some of the recent research on CBM under various physical structures and signal data. Then, we summarize several kinds of prognostic models that use monitoring information to estimate the reliability of complex systems or products. Monitoring information also facilitates operational decisions in production planning, spare parts management, reliability improvement, and prognostics and health management. Finally, we suggest some research opportunities for the reliability and operations management communities to fill the research gap between these two fields.'
+date: 2020-07-20
+venue: 'Frontiers of Engineering Management'
 paperurl: 'http://pengshizhe.github.io/files/paper1.pdf'
-citation: 'Shizhe Peng, Wei Jiang & Wenhui Zhao (2021) A preventive maintenance policy with usage-dependent failure rate thresholds under two-dimensional warranties, IISE Transactions, 53:11, 1231-1243, DOI: 10.1080/24725854.2020.1825879'
+citation: 'Li, Y., Peng, S., Li, Y. et al. A review of condition-based maintenance: Its prognostic and operational aspects. Front. Eng. Manag. 7, 323–334 (2020). https://doi.org/10.1007/s42524-020-0121-5'
 ---
-This article considers Preventive Maintenance (PM) under a two-dimensional (2-D) warranty contract with time and usage limits. From a manufacturer’s point of view, we develop a dynamic maintenance model with a random horizon to include the impact of random and dynamic usage rates on PM decisions. The model treats the cumulative amount of usage as a state variable that provides information about the failure rate and the expiration of the 2-D warranty. We characterize the optimal PM policy by a sequence of usage-dependent failure rate thresholds. Each threshold is a function of the cumulative usage. Our failure rate threshold policy chooses one of the following two actions in each period: performing perfect PM or no PM. Specifically, the manufacturer should bring the failure rate back to its original level when it exceeds the threshold in the corresponding period. This policy is also optimal under a constant usage rate. In the numerical experiments, we demonstrate the effectiveness of the proposed policy and conduct a sensitivity analysis to investigate how this policy is affected by the model parameters.
+Condition-based maintenance (CBM) detects early signs of failure and dictates when maintenance should be performed based on the actual condition of a system. In this paper, we first review some of the recent research on CBM under various physical structures and signal data. Then, we summarize several kinds of prognostic models that use monitoring information to estimate the reliability of complex systems or products. Monitoring information also facilitates operational decisions in production planning, spare parts management, reliability improvement, and prognostics and health management. Finally, we suggest some research opportunities for the reliability and operations management communities to fill the research gap between these two fields.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
