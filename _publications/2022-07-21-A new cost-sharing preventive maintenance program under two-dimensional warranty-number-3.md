@@ -6,7 +6,7 @@ excerpt: 'In this paper, we present a new cost-sharing preventive maintenance (P
 date: 2022-07-21
 venue: 'International Journal of Production Economics'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: '<b>Shizhe Peng</b>, Wei Jiang, Lai Wei, and Xiao-Lin Wang<sup>*</sup>. (2022). <i>International Journal of Production Economics</i>, 108580.'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
