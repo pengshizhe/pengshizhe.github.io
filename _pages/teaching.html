@@ -4,8 +4,14 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
-{% include base_path %}
+---
+permalink: /markdown/
+title: "Markdown"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
+---
 
 ### Table 1
 
@@ -14,6 +20,8 @@ author_profile: true
 | [John Doe](#)    | 2016   | Description of the item in the list                          |
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+
+{% include base_path %}
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
