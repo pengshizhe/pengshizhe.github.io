@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Weclome to my website! My name is Shizhe Peng, and I am currently an assistant professor at the department of management science and information management, School of Business, Central South University. I received a B.M. degree in information management and information system from Central University of Finance and Economics in 2015 and a Ph.D. degree in management science and engineering from Shanghai Jiao Tong University in 2022. My research interests include maintenance optimization and warranty management. My research explores optimal preventive schedules under two-dimensional warranty.
+Weclome to my website! My name is Shizhe Peng, and I am currently an assistant professor at the department of management science and information management, School of Business, Central South University. I received a B.M. degree in information management and information system from Central University of Finance and Economics in 2015 and a Ph.D. degree in management science and engineering from Shanghai Jiao Tong University in 2022, under supervised by Prof. Wei Jiang. My research interests include maintenance optimization and warranty management. My research explores optimal preventive schedules under two-dimensional warranty.
 
 For more info
 ------
