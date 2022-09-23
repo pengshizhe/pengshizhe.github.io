@@ -15,7 +15,7 @@ author_profile: true
 
 
 ## Optimization
-### <i>introduction to linear optimization</i> by Dimitris Bertsimas and John N. Tsitsiklis
+* <i>Introduction to Linear Optimization</i> by Dimitris Bertsimas and John N. Tsitsiklis
 
 ## Game Theory
 
