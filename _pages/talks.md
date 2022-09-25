@@ -34,3 +34,13 @@ author_profile: true
 
 
 ## Operations Management
+
+## Writing
+* <i>Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded</i> by Joshua Schimel
+* <i>Style: Lessons in Clarity and Grace</i> by Joseph M. Williams and Joseph Bizup
+* <i>English Exposed: Common Mistakes Made by Chinese Speakers</i> by Steve Hart
+* <i>Academic Writing for Graduate Students: Essential Tasks and Skills</i> by John M. Swales and Christine B. Feak
+
+## Others
+* <i>The Machine That Changed the World</i> by James P. Womack, Daniel T. Jones, and Daniel Roos
+
