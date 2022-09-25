@@ -18,7 +18,8 @@ author_profile: true
 * <i>Introduction to Linear Optimization</i> by Dimitris Bertsimas and John N. Tsitsiklis
 
 ## Game Theory
-
+* <i>Game Theory: An Introduction</i> by Steven Tadelis
+* <i>A Course in Game Theory</i> by Martin J. Osborne and Ariel Rubinstein
 
 ## Statistics
 
