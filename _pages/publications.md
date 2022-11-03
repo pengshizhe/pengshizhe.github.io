@@ -15,4 +15,4 @@ You can also find my articles on my Google Scholar profile <a href='https://scho
 
 Working papers
 ======
-<b>Shizhe Peng</b>, Quancheng Liu, Fuliang Wu<sup>*</sup>, and Wei Jiang. Cost analysis of one- and two-dimensional preventive maintenance policies under two-dimensional warranty and gamma usage process. To be submitted to <i>Reliability Engineering & System Safety</i>.
+<b>Shizhe Peng</b>, Wei Jiang, Fuliang Wu<sup>*</sup>, and Qinglin Luo. One- and two-dimensional preventive maintenance policies under two-dimensional warranty and gamma usage process. To be submitted to <i>Reliability Engineering & System Safety</i>.
