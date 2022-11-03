@@ -11,11 +11,8 @@ main:
 
   - title: "Resources"
     url: /resources/
-    
-  - title: "Talks"
-    url: /talks/
 
-  - title: "Books"
+  - title: "Portfolio"
     url: /portfolio/
         
   - title: "Blog Posts"
