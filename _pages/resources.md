@@ -21,7 +21,7 @@ author_profile: true
 * <i>Convex Optimization</i> by Stephen Boyd and Lieven Vandenberghe 
 
 ## Game Theory
-* <span style="color:red"><i>Game Theory: An Introduction</i> by Steven Tadelis</span>
+* <span style="color:blue"><i>Game Theory: An Introduction</i> by Steven Tadelis</span>
 * <i>A Course in Game Theory</i> by Martin J. Osborne and Ariel Rubinstein
 
 ## Statistics
@@ -31,7 +31,7 @@ author_profile: true
 
 
 ## Reliability and Quality Management
-* <span style="color:red"><i>The Machine That Changed the World</i> by James P. Womack, Daniel T. Jones, and Daniel Roos</span>
+* <span style="color:blue"><i>The Machine That Changed the World</i> by James P. Womack, Daniel T. Jones, and Daniel Roos</span>
 
 ## Operations Management
 
