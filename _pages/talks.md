@@ -30,8 +30,8 @@ author_profile: true
 ## Bayesian Statistics
 
 
-## Reliability
-
+## Reliability and Quality Management
+* <i>The Machine That Changed the World</i> by James P. Womack, Daniel T. Jones, and Daniel Roos
 
 ## Operations Management
 
@@ -41,6 +41,4 @@ author_profile: true
 * <i>English Exposed: Common Mistakes Made by Chinese Speakers</i> by Steve Hart
 * <i>Academic Writing for Graduate Students: Essential Tasks and Skills</i> by John M. Swales and Christine B. Feak
 
-## Others
-* <i>The Machine That Changed the World</i> by James P. Womack, Daniel T. Jones, and Daniel Roos
 
