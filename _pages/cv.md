@@ -28,12 +28,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Basketball
+* Kongfu
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Python
 
 Publications
 ======
@@ -49,4 +49,5 @@ Teaching
   
 Honors
 ======
-* Currently signed in to 43 different slack teams
+* 上海交通大学优秀毕业生, 2022
+* 博士研究生国家奖学金, 2020
