@@ -8,8 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Weclome to my website! My name is Shizhe Peng, and I am currently a lecturer at the department of digital economy, School of Economics and Management, Changsha University of Science and Technology. I received a B.M. degree in information management and information system from Central University of Finance and Economics in 2015 and a Ph.D. degree in management science and engineering from Shanghai Jiao Tong University in 2022, supervised by Prof. Wei Jiang. My research interests include maintenance optimization and warranty management. My research explores optimal preventive schedules under two-dimensional warranty.
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Weclome to my website! My name is Shizhe Peng, and I am currently a lecturer at the department of digital economy, School of Economics and Management, Changsha University of Science and Technology. I received a B.M. degree in information management and information system from Central University of Finance and Economics in 2015 and a Ph.D. degree in management science and engineering from Shanghai Jiao Tong University in 2022, supervised by Prof. Wei Jiang. My research interests include maintenance optimization and warranty management. My research explores optimal preventive schedules under two-dimensional warranty. I have been the reviewer for 《系统管理学报》.
