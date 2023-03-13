@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-32-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-35-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 {% include base_path %}
 
@@ -17,6 +17,6 @@ Working papers
 ======
 <b>Shizhe Peng</b>, Wei Jiang, Fuliang Wu<sup>*</sup>, and Qinglin Luo. One- and two-dimensional preventive maintenance policies under two-dimensional warranty and gamma usage process. To be submitted to <i>Reliability Engineering & System Safety</i>.
 
-Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>. Spare parts provision with warranty base information: An integrated forecasting and stocking model. Working in process.
+Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, Jianyu Xu. Spare parts provision with warranty base information: An integrated forecasting and stocking model. Working in process.
 
 <b>Shizhe Peng</b>. Selling extended warranties in the presence of reliability learning and strategic repair-discard behavior. Working in process.
