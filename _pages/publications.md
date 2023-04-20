@@ -23,6 +23,4 @@ Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, Jianyu Xu. Spare pa
 
 <b>Shizhe Peng</b>, Yanrong Li<sup>*</sup>. When to sell extended warranties in the presence of reliability learning and strategic consumers. Working in process.
 
-<b>Shizhe Peng</b>. The impact of the secondary market on *** *** sales. Working in process.
-
 <b>Shizhe Peng</b>. A *** model for automobile insurance: pay-as-you-drive or merit rating. Working in process.
