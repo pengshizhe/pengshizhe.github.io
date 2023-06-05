@@ -18,7 +18,7 @@ author_profile: true
 
 ## Optimization
 * <i>Introduction to Linear Optimization</i> by Dimitris Bertsimas and John N. Tsitsiklis
-  * Solutions manual [1](https://math.berkeley.edu/~bernd/math170.html)
+  * Solutions manual<sup>\[[1](https://math.berkeley.edu/~bernd/math170.html), [2]([https://math.berkeley.edu/~bernd/math170.html](https://math.solverer.com/library/dimitris_bertsimas/introduction_to_linear_optimization?utm_source=reddit&utm_medium=link))\]</sup>
   * [<i>Linear Optimization</i> - Alberto Del Pia, University of Wisconsin-Madison](https://www.youtube.com/playlist?list=PLeO_PhASIA0Ot69TqANAnNxoykHGOQp2Y)
   * [<i>Linear Programming</i> - Santanu S. Dey, Georgia Institute of Technology](https://www2.isye.gatech.edu/~sdey30/CourseLinearProgramming.html)
 * <i>Convex Optimization</i> by Stephen Boyd and Lieven Vandenberghe 
@@ -31,7 +31,8 @@ author_profile: true
 
 
 ## Bayesian Statistics
-
+* <i>Bayesian Data Analysis</i> by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin 
+  * [<i>Bayesian Data Analysis</i> - Aki Vehtari, Aalto University](https://aalto.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%224a7f385e-fdb1-4382-bfd0-af0700b7fc46%22)
 
 ## Reliability and Quality Management
 * <span style="color:blue"><i>The Machine That Changed the World</i> by James P. Womack, Daniel T. Jones, and Daniel Roos</span>
