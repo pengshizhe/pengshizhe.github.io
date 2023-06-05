@@ -18,7 +18,9 @@ author_profile: true
 
 ## Optimization
 * <i>Introduction to Linear Optimization</i> by Dimitris Bertsimas and John N. Tsitsiklis
-  * Linear Optimization - Alberto Del Pia, University of Wisconsin-Madison
+  * Solutions manual [1](https://math.berkeley.edu/~bernd/math170.html)
+  * [<i>Linear Optimization</i> - Alberto Del Pia, University of Wisconsin-Madison](https://www.youtube.com/playlist?list=PLeO_PhASIA0Ot69TqANAnNxoykHGOQp2Y)
+  * [<i>Linear Programming</i> - Santanu S. Dey, Georgia Institute of Technology](https://www2.isye.gatech.edu/~sdey30/CourseLinearProgramming.html)
 * <i>Convex Optimization</i> by Stephen Boyd and Lieven Vandenberghe 
 
 ## Game Theory
