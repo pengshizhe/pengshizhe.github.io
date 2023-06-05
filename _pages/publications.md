@@ -23,4 +23,10 @@ Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, Jianyu Xu. Separate
 
 <b>Shizhe Peng</b>, Yanrong Li<sup>*</sup>. When to sell extended warranties in the presence of reliability learning and strategic consumers. Working in process.
 
-<b>Shizhe Peng</b>. A *** model for automobile insurance: pay-as-you-drive or merit rating. Working in process.
+<b>Shizhe Peng</b>. A secretary problem. Working in process.
+
+<b>Shizhe Peng</b>. A buy-one-get-one problem. Working in process.
+
+<b>Shizhe Peng</b>. A luck-and-skill problem. Working in process.
+
+<b>Shizhe Peng</b>. A blind box problem. Working in process.
