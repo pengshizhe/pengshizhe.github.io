@@ -18,6 +18,7 @@ author_profile: true
 
 ## Optimization
 * <i>Introduction to Linear Optimization</i> by Dimitris Bertsimas and John N. Tsitsiklis
+  * Linear Optimization - Alberto Del Pia, University of Wisconsin-Madison
 * <i>Convex Optimization</i> by Stephen Boyd and Lieven Vandenberghe 
 
 ## Game Theory
