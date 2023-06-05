@@ -15,11 +15,11 @@ You can also find my articles on my Google Scholar profile <a href='https://scho
 
 Working papers
 ======
-<b>Shizhe Peng</b>, Wei Jiang, Wenpo Huang<sup>*</sup>, and Qinglin Luo. One- and two-dimensional preventive maintenance policies under two-dimensional warranty and gamma usage process. To be submitted to <i>Reliability Engineering & System Safety</i>.
-
-<b>Shizhe Peng</b>, Yanrong Li<sup>*</sup>. Squeezing cost or saving word-of-mouth? A two-stage flexible pricing strategy. To be submitted to <i>International Journal of Production Research</i>.
+<b>Shizhe Peng</b>, Wei Jiang, Wenpo Huang<sup>*</sup>, and Qinglin Luo. One- and two-dimensional preventive maintenance policies under two-dimensional warranty and gamma usage process. Submitted to <i>Reliability Engineering & System Safety</i>.
 
 Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, Jianyu Xu. Spare parts provision with warranty base information: An integrated forecasting and stocking model. Working in process.
+
+<b>Shizhe Peng</b>, Yanrong Li<sup>*</sup>. Squeezing cost or saving word-of-mouth? A two-stage flexible pricing strategy. To be submitted to <i>International Journal of Production Research</i>.
 
 <b>Shizhe Peng</b>, Yanrong Li<sup>*</sup>. When to sell extended warranties in the presence of reliability learning and strategic consumers. Working in process.
 
