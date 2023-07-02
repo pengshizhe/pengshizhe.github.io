@@ -17,7 +17,7 @@ Working papers
 ======
 <b>Shizhe Peng</b>, Wei Jiang, Wenpo Huang<sup>*</sup>, and Qinglin Luo. One- and two-dimensional preventive maintenance policies under two-dimensional warranty and gamma usage process. Submitted to <i>Reliability Engineering & System Safety</i>.
 
-Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. Working in process.
+Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. Submitted to <i>Omega</i>.
 
 <b>Shizhe Peng</b>, Yanrong Li<sup>*</sup>. Squeezing cost or saving word-of-mouth? A two-stage flexible pricing strategy. To be submitted to <i>International Journal of Production Research</i>.
 
