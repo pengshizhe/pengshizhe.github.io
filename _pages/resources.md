@@ -28,14 +28,15 @@ author_profile: true
 * <i>A Course in Game Theory</i> by Martin J. Osborne and Ariel Rubinstein
 
 ## Statistics
-
+* <span style="color:blue"><i>Statistical Inference</i> by George Casella and Roger L. Berger</span>
 
 ## Bayesian Statistics
 * <i>Bayesian Data Analysis</i> by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin 
   * [<i>Bayesian Data Analysis</i> - Aki Vehtari, Aalto University](https://aalto.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%224a7f385e-fdb1-4382-bfd0-af0700b7fc46%22)
+* <i>Bayesian Statistics and Marketing</i> by Peter E. Rossi, Greg M. Allenby, and Robert McCulloch 
 
 ## Reliability and Quality Management
-* <span style="color:blue"><i>The Machine That Changed the World</i> by James P. Womack, Daniel T. Jones, and Daniel Roos</span>
+* <i>The Machine That Changed the World</i> by James P. Womack, Daniel T. Jones, and Daniel Roos
 
 ## Operations Management
 
