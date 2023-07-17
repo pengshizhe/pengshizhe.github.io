@@ -15,7 +15,7 @@ You can also find my articles on my Google Scholar profile <a href='https://scho
 
 Working papers
 ======
-<b>Shizhe Peng</b>, Wei Jiang, Wenpo Huang<sup>*</sup>, and Qinglin Luo. One- and two-dimensional preventive maintenance policies under two-dimensional warranty and gamma usage process. Submitted to <i>Reliability Engineering & System Safety</i>.
+<b>Shizhe Peng</b>, Wei Jiang, Wenpo Huang<sup>*</sup>, and Qinglin Luo. One- and two-dimensional preventive maintenance policies under two-dimensional warranty and gamma usage process. <i>Reliability Engineering & System Safety</i>. Major revision.
 
 Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. Submitted to <i>Omega</i>.
 
