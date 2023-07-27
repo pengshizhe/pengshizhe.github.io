@@ -25,6 +25,8 @@ Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spar
 
 <b>Shizhe Peng</b>. A secretary problem.
 
+<b>Shizhe Peng</b>. A portable charger problem.
+
 <b>Shizhe Peng</b>. A blind box problem.
 
 <b>Shizhe Peng</b>. A buy-one-get-one problem.
