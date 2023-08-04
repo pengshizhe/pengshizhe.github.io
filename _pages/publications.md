@@ -23,7 +23,7 @@ Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spar
 
 <b>Shizhe Peng</b>. A luck-and-skill/optimal control problem.
 
-<b>Shizhe Peng</b>. A warranty problem.
+<b>Shizhe Peng</b>. A d warranty problem.
 
 <b>Shizhe Peng</b>. A secretary problem.
 
