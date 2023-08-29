@@ -15,11 +15,11 @@ You can also find my articles on my Google Scholar profile <a href='https://scho
 
 Working papers
 ======
-<b>Shizhe Peng</b>, Wei Jiang, Wenpo Huang<sup>*</sup>, and Qinglin Luo. One- and two-dimensional preventive maintenance policies under two-dimensional warranty and gamma usage process. <i>Reliability Engineering & System Safety</i>, major revision.
+<b>Shizhe Peng</b>, Wei Jiang, Wenpo Huang<sup>*</sup>, and Qinglin Luo. The impact of gamma usage processes on one- and two-dimensional preventive maintenance policies under two-dimensional warranty. <i>Reliability Engineering & System Safety</i>, major revision.
 
 Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. <i>Omega</i>, under review.
 
-<b>Shizhe Peng</b>. When to sell extended warranties in the presence of reliability learning and strategic consumers. Working in process.
+<b>Shizhe Peng</b>, Yanrong Li. When to sell extended warranties in the presence of reliability learning and strategic consumers. Working in process.
 
 <b>Shizhe Peng</b>. A luck-and-skill/optimal control problem.
 
