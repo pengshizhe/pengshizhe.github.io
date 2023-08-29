@@ -19,7 +19,7 @@ Working papers
 
 Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. <i>Omega</i>, under review.
 
-<b>Shizhe Peng</b>, Yanrong Li. When to sell extended warranties in the presence of reliability learning and strategic consumers. Working in process.
+<b>Shizhe Peng</b>, Yanrong Li<sup>*</sup>. When to sell extended warranties in the presence of reliability learning and strategic consumers. Working in process.
 
 <b>Shizhe Peng</b>. A luck-and-skill/optimal control problem.
 
