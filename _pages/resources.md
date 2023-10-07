@@ -15,6 +15,7 @@ author_profile: true
 
 ## Stochastic Process
 * <i>Adventures in Stochastic Processes</i> by Sidney I. Resnick
+* <i>Stochastic Calculus and Financial Applications</i> by J. Michael Steele
 
 ## Optimization
 * <i>Introduction to Linear Optimization</i> by Dimitris Bertsimas and John N. Tsitsiklis
@@ -26,9 +27,10 @@ author_profile: true
 ## Game Theory
 * <span style="color:blue"><i>Game Theory: An Introduction</i> by Steven Tadelis</span>
 * <i>A Course in Game Theory</i> by Martin J. Osborne and Ariel Rubinstein
-
+* [<i>Game Theory</i> - Ben Polak, Yale University](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)
+  
 ## Statistics
-* <span style="color:blue"><i>Statistical Inference</i> by George Casella and Roger L. Berger</span>
+* <i>Statistical Inference</i> by George Casella and Roger L. Berger
 
 ## Bayesian Statistics
 * <i>Bayesian Data Analysis</i> by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin 
