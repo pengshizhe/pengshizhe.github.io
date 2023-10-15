@@ -15,7 +15,6 @@ You can also find my articles on my Google Scholar profile <a href='https://scho
 
 Working papers
 ======
-<b>Shizhe Peng</b>, Wei Jiang, Wenpo Huang<sup>*</sup>, and Qinglin Luo. The impact of gamma usage processes on preventive maintenance policies under two-dimensional warranty. <i>Reliability Engineering & System Safety</i>, under 2nd round review.
 
 Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. <i>Omega</i>, under review.
 
