@@ -8,8 +8,3 @@ venue: 'International Journal of Production Economics'
 paperurl: 'http://pengshizhe.github.io/files/paper3.pdf'
 citation: '<b>Shizhe Peng</b>, Wei Jiang, Lai Wei, and Xiao-Lin Wang<sup>*</sup>. (2022). <i>International Journal of Production Economics</i>, 254, 108580.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
