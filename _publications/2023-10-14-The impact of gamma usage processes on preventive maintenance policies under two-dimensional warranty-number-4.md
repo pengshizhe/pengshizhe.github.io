@@ -6,5 +6,5 @@ excerpt: 'This study considers a manufacturer performing preventive maintenance 
 date: 2023-10-14
 venue: 'Reliability Engineering & System Safety'
 paperurl: 'http://pengshizhe.github.io/files/paper3.pdf'
-citation: '<b>Shizhe Peng</b>, Wei Jiang, Wenpo Huang<sup>*</sup>, and Qinglin Luo. (2023). <i>Reliability Engineering & System Safety</i>, accept.'
+citation: '<b>Shizhe Peng</b>, Wei Jiang, Wenpo Huang<sup>*</sup>, and Qinglin Luo. (2023). <i>Reliability Engineering & System Safety</i>, forthcoming.'
 ---
