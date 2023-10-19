@@ -16,7 +16,7 @@ You can also find my articles on my Google Scholar profile <a href='https://scho
 Working papers
 ======
 
-Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. <i>Omega</i>, under review.
+Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. <i>International Journal of Production Economics</i>, under review.
 
 <b>Shizhe Peng</b>, Yanrong Li<sup>*</sup>. When to sell extended warranties in the presence of reliability learning and strategic consumers. Working in process.
 
