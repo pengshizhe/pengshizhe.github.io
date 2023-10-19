@@ -20,6 +20,8 @@ Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spar
 
 <b>Shizhe Peng</b>, Yanrong Li<sup>*</sup>. When to sell extended warranties in the presence of reliability learning and strategic consumers. Working in process.
 
+<b>Shizhe Peng</b>. A human error problem.
+
 <b>Shizhe Peng</b>. A luck-and-skill/optimal control problem.
 
 <b>Shizhe Peng</b>. A d warranty problem.
