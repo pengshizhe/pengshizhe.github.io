@@ -22,6 +22,8 @@ Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spar
 
 Yanfei Jin and <b>Shizhe Peng</b><sup>*</sup>. Moral hazard in automobile insurance: Evidence from telematics data. Working in process.
 
+Yanrong Li and <b>Shizhe Peng</b>. A two-stage pricing strategy considering learning effects and word-of-mouth. Working in process.
+
 <b>Shizhe Peng</b>. A human error problem.
 
 <b>Shizhe Peng</b>. A luck-and-skill/optimal control problem.
