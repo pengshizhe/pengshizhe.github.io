@@ -20,6 +20,8 @@ Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spar
 
 <b>Shizhe Peng</b>. When to sell extended warranties in the presence of reliability learning and strategic consumers. Working in process.
 
+Yanfei Jin and <b>Shizhe Peng</b><sup>*</sup>. Moral hazard in automobile insurance: Evidence from telematics data. Working in process.
+
 <b>Shizhe Peng</b>. A human error problem.
 
 <b>Shizhe Peng</b>. A luck-and-skill/optimal control problem.
