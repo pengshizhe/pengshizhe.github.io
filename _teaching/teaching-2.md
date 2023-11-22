@@ -1,5 +1,5 @@
 ---
-title: "The economics of information"
+title: "Data, models, and decisions"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching-2
