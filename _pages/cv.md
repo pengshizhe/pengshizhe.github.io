@@ -21,9 +21,10 @@ Work experience
   
 Skills
 ======
-* Basketball
-* Kongfu
 * Python programming
+* Basketball
+* Calligraphy
+* Kongfu
 
 Publications
 ======
