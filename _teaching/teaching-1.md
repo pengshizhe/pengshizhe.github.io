@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching-1
 venue: "CSUST, Digital Economy"
-date: 2023-03-01
+date: 2024-01-01
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
