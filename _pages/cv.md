@@ -24,6 +24,7 @@ Skills
 * Python programming
 * Basketball
 * Calligraphy
+* Kongfu
 
 Publications
 ======
