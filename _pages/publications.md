@@ -16,11 +16,11 @@ You can also find my articles on my Google Scholar profile <a href='https://scho
 Working papers
 ======
 
-Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. <i>International Journal of Production Economics</i>, under review.
+Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. To be submitted to <i>International Journal of Production Research</i>.
+
+Esther Yanfei Jin, Wei Jiang, and <b>Shizhe Peng</b><sup>*</sup>. Does moral hazard really exist in automobile insurance? New evidence from telematics data. To be submitted to <i>Finance Research Letters</i>.
 
 <b>Shizhe Peng</b>. When to sell extended warranties in the presence of reliability learning and strategic consumers. Working in process.
-
-Yanfei Jin and <b>Shizhe Peng</b><sup>*</sup>. Moral hazard in automobile insurance: Evidence from telematics data. Working in process.
 
 Yanrong Li and <b>Shizhe Peng</b>. A two-stage pricing strategy considering learning effects and word-of-mouth. Working in process.
 
