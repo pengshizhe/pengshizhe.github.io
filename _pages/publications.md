@@ -18,7 +18,7 @@ Working papers
 
 Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. To be submitted to <i>International Journal of Production Research</i>.
 
-Esther Yanfei Jin, Wei Jiang, and <b>Shizhe Peng</b><sup>*</sup>. Does moral hazard really exist in automobile insurance? New evidence from telematics data. To be submitted to <i>Finance Research Letters</i>.
+Esther Yanfei Jin, Wei Jiang, and <b>Shizhe Peng</b><sup>*</sup>. Does moral hazard exist in automobile insurance? New evidence from telematics data. To be submitted to <i>Finance Research Letters</i>.
 
 <b>Shizhe Peng</b>. When to sell extended warranties in the presence of reliability learning and strategic consumers. Working in process.
 
