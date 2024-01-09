@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-57-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-58-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 {% include base_path %}
 
@@ -18,7 +18,7 @@ Working papers
 
 Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. To be submitted to <i>International Journal of Production Research</i>.
 
-Esther Yanfei Jin, Wei Jiang, and <b>Shizhe Peng</b><sup>*</sup>. Does moral hazard exist in automobile insurance? New evidence from telematics data. To be submitted to <i>Finance Research Letters</i>.
+Esther Yanfei Jin, Wei Jiang, and <b>Shizhe Peng</b><sup>*</sup>. Does moral hazard exist in auto insurance? New evidence from telematics data. To be submitted to <i>Finance Research Letters</i>.
 
 <b>Shizhe Peng</b>. When to sell extended warranties in the presence of reliability learning and strategic consumers. Working in process.
 
@@ -29,6 +29,8 @@ Yanrong Li and <b>Shizhe Peng</b>. A two-stage pricing strategy considering lear
 <b>Shizhe Peng</b>. A luck-and-skill/optimal control problem.
 
 <b>Shizhe Peng</b>. A d warranty problem.
+
+<b>Shizhe Peng</b>. A s warranty problem.
 
 <b>Shizhe Peng</b>. A secretary problem.
 
