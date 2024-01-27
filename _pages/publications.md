@@ -30,7 +30,7 @@ Yanrong Li and <b>Shizhe Peng</b>. A two-stage pricing strategy considering lear
 
 <b>Shizhe Peng</b>. A d warranty problem.
 
-<b>Shizhe Peng</b>. A s warranty problem.
+<b>Shizhe Peng</b>. A st warranty problem.
 
 <b>Shizhe Peng</b>. A secretary problem.
 
