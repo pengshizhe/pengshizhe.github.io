@@ -39,10 +39,3 @@ Honors
 ======
 * 上海交通大学优秀毕业生, 2022
 * 博士研究生国家奖学金, 2020
-
-Skills
-======
-* Python programming
-* Basketball
-* Calligraphy
-* Kongfu
