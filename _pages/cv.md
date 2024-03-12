@@ -18,19 +18,16 @@ Work experience
 ======
 * October 2022: Lecturer
   * Changsha University of Science and Technology
-  
-Skills
-======
-* Python programming
-* Basketball
-* Calligraphy
-* Kongfu
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-publication-cv.html %}
   {% endfor %}</ul>
+
+Projects
+======
+* 湖南省自然科学基金青年项目，5万，2024年-2026年
   
 Teaching
 ======
@@ -42,3 +39,10 @@ Honors
 ======
 * 上海交通大学优秀毕业生, 2022
 * 博士研究生国家奖学金, 2020
+
+Skills
+======
+* Python programming
+* Basketball
+* Calligraphy
+* Kongfu
