@@ -43,3 +43,5 @@ Yanrong Li and <b>Shizhe Peng</b>. A two-stage pricing strategy considering lear
 <b>Shizhe Peng</b>. A blind box problem.
 
 <b>Shizhe Peng</b>. A buy-one-get-one problem.
+
+<b>Shizhe Peng</b>. A tea inventory problem.
