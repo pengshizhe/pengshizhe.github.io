@@ -9,11 +9,8 @@ date: 2024-01-01
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Slides
 ======
+[1. 导言](http://pengshizhe.github.io/files/EI/1. 导言.pdf)
 
-Heading 2
-======
 
-Heading 3
-======
