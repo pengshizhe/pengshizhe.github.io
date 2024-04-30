@@ -7,7 +7,7 @@ venue: "CSUST, Digital Economy"
 date: 2024-01-01
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course is an introduction to game theory and strategic thinking. Ideas such as dominance, backward induction, Nash equilibrium, evolutionary stability, commitment, credibility, asymmetric information, adverse selection, and signaling are discussed and applied to games played in class and to examples drawn from economics, politics, the movies, and elsewhere.
 
 Textbook
 ======
@@ -33,4 +33,12 @@ Homework
 | Homework                | Answer        | 
 | :------------:            | :------------:  | 
 | [hw1](http://pengshizhe.github.io/files/EI/hw1.pdf)    | [hw1_answer](http://pengshizhe.github.io/files/EI/hw1_answer.pdf)    | 
+
+Grading
+======
+Attendance: 20%
+
+Problem sets: 10%
+
+Final presentation: 70%
    
