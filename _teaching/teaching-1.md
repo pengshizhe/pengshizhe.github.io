@@ -29,4 +29,8 @@ Slides
 
 Homework
 ======
-[hw1](http://pengshizhe.github.io/files/EI/hw1.pdf)   [hw1_answer](http://pengshizhe.github.io/files/EI/hw1_answer.pdf) 
+
+| Homework                | Answer        | 
+| ------------            | ------------  | 
+| [hw1](http://pengshizhe.github.io/files/EI/hw1.pdf)    | [hw1_answer](http://pengshizhe.github.io/files/EI/hw1_answer.pdf)    | 
+   
