@@ -23,4 +23,5 @@ Slides
 
 [6. 序贯博弈（二）](http://pengshizhe.github.io/files/EI/6. 序贯博弈（二）.pdf)
 
-
+Homework
+======
