@@ -9,6 +9,10 @@ date: 2024-01-01
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
+Textbook
+======
+[《策略思维：商界、政界及日常生活中的策略竞争》，阿维纳什·迪克西特和巴里·奈尔伯夫著](http://pengshizhe.github.io/files/EI/策略思维.pdf)
+
 Slides
 ======
 [1. 导言](http://pengshizhe.github.io/files/EI/1. 导言.pdf)
@@ -25,3 +29,4 @@ Slides
 
 Homework
 ======
+[hw1](http://pengshizhe.github.io/files/EI/hw1.pdf)   [hw1_answer](http://pengshizhe.github.io/files/EI/hw1_answer.pdf) 
