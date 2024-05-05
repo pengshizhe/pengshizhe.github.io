@@ -24,8 +24,6 @@ Xiao-Lin Wang, <b>Shizhe Peng</b>, and Xiaoge Zhang<sup>*</sup>. Price competiti
 
 <b>Shizhe Peng</b>. When to sell extended warranties in the presence of reliability learning and strategic consumers. Working in process.
 
-Yanrong Li and <b>Shizhe Peng</b>. A two-stage pricing strategy considering learning effects and word-of-mouth. Working in process.
-
 <b>Shizhe Peng</b>. An iv warranty problem.
 
 <b>Shizhe Peng</b>. A human error problem.
