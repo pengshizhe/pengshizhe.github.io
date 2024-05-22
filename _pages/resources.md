@@ -7,7 +7,7 @@ author_profile: true
 
 ## Real Analysis
 * <i>Real Analysis: Measure Theory, Integration, and Hilbert Spaces</i> by Elias M. Stein and Rami Shakarchi
-* [<i>实变函数</i>——王芝兰，中国矿业大学（北京）](https://www.bilibili.com/video/BV1o7411N7qx?p=1)
+* [<i>实变函数</i> by 王芝兰 at 中国矿业大学（北京）](https://www.bilibili.com/video/BV1o7411N7qx?p=1)
 
 ## Probability
 * <i>Probability and Random Processes</i> by Geoffrey R. Grimmett and David R. Stirzaker
@@ -20,21 +20,22 @@ author_profile: true
 ## Optimization
 * <i>Introduction to Linear Optimization</i> by Dimitris Bertsimas and John N. Tsitsiklis
   * Solutions manual<sup>\[[1](https://math.berkeley.edu/~bernd/math170.html), [2]([https://math.berkeley.edu/~bernd/math170.html](https://math.solverer.com/library/dimitris_bertsimas/introduction_to_linear_optimization?utm_source=reddit&utm_medium=link))\]</sup>
-  * [<i>Linear Optimization</i> - Alberto Del Pia, University of Wisconsin-Madison](https://www.youtube.com/playlist?list=PLeO_PhASIA0Ot69TqANAnNxoykHGOQp2Y)
-  * [<i>Linear Programming</i> - Santanu S. Dey, Georgia Institute of Technology](https://www2.isye.gatech.edu/~sdey30/CourseLinearProgramming.html)
+  * [<i>Linear Optimization</i> by Alberto Del Pia at University of Wisconsin-Madison](https://www.youtube.com/playlist?list=PLeO_PhASIA0Ot69TqANAnNxoykHGOQp2Y)
+  * [<i>Linear Programming</i> by Santanu S. Dey at Georgia Institute of Technology](https://www2.isye.gatech.edu/~sdey30/CourseLinearProgramming.html)
 * <i>Convex Optimization</i> by Stephen Boyd and Lieven Vandenberghe 
 
 ## Game Theory
 * <span style="color:blue"><i>Game Theory: An Introduction</i> by Steven Tadelis</span>
 * <i>A Course in Game Theory</i> by Martin J. Osborne and Ariel Rubinstein
-* [<i>Game Theory</i> - Ben Polak, Yale University](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)
+* [<i>Game Theory</i> by Ben Polak at Yale University](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)
+* [<i>Game Theory I and II</i> by Matthew O. Jackson, Kevin Leyton-Brown, and Yoav Shoham at Stanford University](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)
   
 ## Statistics
 * <i>Statistical Inference</i> by George Casella and Roger L. Berger
 
 ## Bayesian Statistics
 * <i>Bayesian Data Analysis</i> by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin 
-  * [<i>Bayesian Data Analysis</i> - Aki Vehtari, Aalto University](https://aalto.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%224a7f385e-fdb1-4382-bfd0-af0700b7fc46%22)
+  * [<i>Bayesian Data Analysis</i> by Aki Vehtari at Aalto University](https://aalto.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%224a7f385e-fdb1-4382-bfd0-af0700b7fc46%22)
 * <i>Bayesian Statistics and Marketing</i> by Peter E. Rossi, Greg M. Allenby, and Robert McCulloch 
 
 ## Reliability and Quality Management
