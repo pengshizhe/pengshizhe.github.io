@@ -28,7 +28,7 @@ author_profile: true
 * <span style="color:blue"><i>Game Theory: An Introduction</i> by Steven Tadelis</span>
 * <i>A Course in Game Theory</i> by Martin J. Osborne and Ariel Rubinstein
 * [<i>Game Theory</i> by Ben Polak at Yale University](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)
-* [<i>Game Theory I and II</i> by Matthew O. Jackson, Kevin Leyton-Brown, and Yoav Shoham at Stanford University](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)
+* [<i>Game Theory I and II</i> by Matthew O. Jackson, Kevin Leyton-Brown, and Yoav Shoham at Stanford University](https://www.game-theory-class.org/)
   
 ## Statistics
 * <i>Statistical Inference</i> by George Casella and Roger L. Berger
