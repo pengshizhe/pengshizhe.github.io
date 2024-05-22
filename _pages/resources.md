@@ -5,6 +5,12 @@ permalink: /resources/
 author_profile: true
 ---
 
+## Game Theory
+* <i>Game Theory: An Introduction</i> by Steven Tadelis
+* <i>A Course in Game Theory</i> by Martin J. Osborne and Ariel Rubinstein
+* [<i>Game Theory</i> by Ben Polak at Yale University](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)
+* [<i>Game Theory I and II</i> by Matthew O. Jackson, Kevin Leyton-Brown, and Yoav Shoham at Stanford University](https://www.game-theory-class.org/)
+
 ## Real Analysis
 * <i>Real Analysis: Measure Theory, Integration, and Hilbert Spaces</i> by Elias M. Stein and Rami Shakarchi
 * [<i>实变函数</i> by 王芝兰 at 中国矿业大学（北京）](https://www.bilibili.com/video/BV1o7411N7qx?p=1)
@@ -23,12 +29,6 @@ author_profile: true
   * [<i>Linear Optimization</i> by Alberto Del Pia at University of Wisconsin-Madison](https://www.youtube.com/playlist?list=PLeO_PhASIA0Ot69TqANAnNxoykHGOQp2Y)
   * [<i>Linear Programming</i> by Santanu S. Dey at Georgia Institute of Technology](https://www2.isye.gatech.edu/~sdey30/CourseLinearProgramming.html)
 * <i>Convex Optimization</i> by Stephen Boyd and Lieven Vandenberghe 
-
-## Game Theory
-* <span style="color:blue"><i>Game Theory: An Introduction</i> by Steven Tadelis</span>
-* <i>A Course in Game Theory</i> by Martin J. Osborne and Ariel Rubinstein
-* [<i>Game Theory</i> by Ben Polak at Yale University](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)
-* [<i>Game Theory I and II</i> by Matthew O. Jackson, Kevin Leyton-Brown, and Yoav Shoham at Stanford University](https://www.game-theory-class.org/)
   
 ## Statistics
 * <i>Statistical Inference</i> by George Casella and Roger L. Berger
