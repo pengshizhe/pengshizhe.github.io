@@ -22,7 +22,7 @@ Esther Yanfei Jin, Wei Jiang, and <b>Shizhe Peng</b><sup>*</sup>. Does moral haz
 
 Xiao-Lin Wang, <b>Shizhe Peng</b>, and Xiaoge Zhang<sup>*</sup>. Price competition in an oligopolistic extended warranty market. Working in process.
 
-<b>Shizhe Peng</b>. When to sell extended warranties in the presence of reliability learning and strategic consumers. Working in process.
+<b>Shizhe Peng</b>. When to sell extended warranties in the presence of consumer reliability learning. Working in process.
 
 <b>Shizhe Peng</b>. An iv warranty problem.
 
