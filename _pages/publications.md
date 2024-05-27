@@ -28,6 +28,9 @@ Esther Yanfei Jin, Wei Jiang, and <b>Shizhe Peng</b><sup>*</sup>. Does moral haz
 
 <b>Shizhe Peng</b>. A PM and iv warranty problem. Working in process.
 
+Ideas
+======
+
 <b>Shizhe Peng</b>. A luck-and-skill/optimal control problem.
 
 <b>Shizhe Peng</b>. A d warranty problem.
