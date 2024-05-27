@@ -24,9 +24,9 @@ Xiao-Lin Wang, <b>Shizhe Peng</b>, and Xiaoge Zhang<sup>*</sup>. Price competiti
 
 <b>Shizhe Peng</b>. When to sell extended warranties in the presence of consumer reliability learning. Working in process.
 
-<b>Shizhe Peng</b>. An iv warranty problem.
+<b>Shizhe Peng</b>. An incident problem. Working in process.
 
-<b>Shizhe Peng</b>. A human error problem.
+<b>Shizhe Peng</b>. A PM and iv warranty problem. Working in process.
 
 <b>Shizhe Peng</b>. A luck-and-skill/optimal control problem.
 
