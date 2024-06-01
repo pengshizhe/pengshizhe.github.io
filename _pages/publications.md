@@ -16,9 +16,9 @@ You can also find my articles on my Google Scholar profile <a href='https://scho
 Working papers
 ======
 
-Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. <i>International Journal of Production Research</i>. Under review.
+Xiao-Lin Wang, <b>Shizhe Peng</b>, and Xiaoge Zhang<sup>*</sup>. Price competition in an oligopolistic extended warranty market. <i>Production and Operations Management</i>. Under review.
 
-Xiao-Lin Wang, <b>Shizhe Peng</b>, and Xiaoge Zhang<sup>*</sup>. Price competition in an oligopolistic extended warranty market. Submitted to <i>Production and Operations Management</i>.
+Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. <i>International Journal of Production Research</i>. Under review.
 
 Esther Yanfei Jin, Wei Jiang, and <b>Shizhe Peng</b><sup>*</sup>. Does moral hazard exist in auto insurance? New evidence from telematics data. To be submitted to <i>Finance Research Letters</i>.
 
