@@ -24,7 +24,7 @@ Esther Yanfei Jin, Wei Jiang, and <b>Shizhe Peng</b><sup>*</sup>. Does moral haz
 
 <b>Shizhe Peng</b> and Xiao-Lin Wang. RTR and warranty. Working in process.
 
-<b>Shizhe Peng</b>. When to sell extended warranties in the presence of consumer reliability learning. Working in process.
+<b>Shizhe Peng</b>. Pricing strategies of extended warranties in the presence of consumer reliability learning. Working in process.
 
 <b>Shizhe Peng</b>. An incident problem. Working in process.
 
