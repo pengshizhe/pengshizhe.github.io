@@ -47,4 +47,4 @@ Ideas
 
 <b>Shizhe Peng</b>. A buy-one-get-one problem.
 
-<b>Shizhe Peng</b>. A tea inventory problem.
+<b>Shizhe Peng</b>. A tea/storable goods inventory problem.
