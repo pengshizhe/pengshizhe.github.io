@@ -18,7 +18,7 @@ Working papers
 
 Xiao-Lin Wang, <b>Shizhe Peng</b>, and Xiaoge Zhang<sup>*</sup>. Price competition in an oligopolistic extended warranty market. <i>European Journal of Operational Research</i>. Under review.
 
-Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. <i>International Journal of Production Research</i>. Under review.
+Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. <i>Reliability Engineering & System Safety</i>. Under review.
 
 Esther Yanfei Jin, Wei Jiang, and <b>Shizhe Peng</b><sup>*</sup>. Does moral hazard exist in auto insurance? New evidence from telematics data. To be submitted to <i>Finance Research Letters</i>.
 
