@@ -22,11 +22,11 @@ Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spar
 
 Esther Yanfei Jin, Wei Jiang, and <b>Shizhe Peng</b><sup>*</sup>. Does moral hazard exist in auto insurance? New evidence from telematics data. To be submitted to <i>Finance Research Letters</i>.
 
-<b>Shizhe Peng</b> and Xiao-Lin Wang. RTR and warranty. Working in process.
+Xiyang Hou, Peiqiang Guo<sup>*</sup>, and <b>Shizhe Peng</b>. Is channel coordination always better in the presence of strategic customers?. To be submitted to <i>International Journal of Production Economics</i>.
 
-<b>Shizhe Peng</b>. Pricing extended warranties in the presence of consumer reliability learning. Working in process.
+<b>Shizhe Peng</b> and Xiao-Lin Wang. ADP, warranty, and RTR. Working in process.
 
-<b>Shizhe Peng</b>. An incident problem. Working in process.
+<b>Shizhe Peng</b> and Xiyang Hou. Pricing extended warranties in the presence of consumer reliability learning. Working in process.
 
 <b>Shizhe Peng</b>. A PM and iv warranty problem. Working in process.
 
