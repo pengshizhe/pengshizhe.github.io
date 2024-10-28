@@ -26,7 +26,7 @@ Xiyang Hou, Peiqiang Guo<sup>*</sup>, and <b>Shizhe Peng</b>. Is channel coordin
 
 <b>Shizhe Peng</b> and Xiao-Lin Wang. ADP, warranty, and RTR. Working in process.
 
-<b>Shizhe Peng</b> and Xiyang Hou. Pricing extended warranties in the presence of consumer reliability learning. Working in process.
+<b>Shizhe Peng</b>, Quanchen Liu<sup>*</sup>, and Xiyang Hou. Pricing extended warranties in the presence of consumer reliability learning. Working in process.
 
 <b>Shizhe Peng</b>. A PM and iv warranty problem. Working in process.
 
