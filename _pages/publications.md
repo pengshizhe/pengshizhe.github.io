@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-87-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-88-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 {% include base_path %}
 
@@ -41,7 +41,7 @@ Ideas
 
 <b>Shizhe Peng</b>. A secretary problem.
 
-<b>Shizhe Peng</b>. A portable charger problem.
+<b>Shizhe Peng</b>. A portable charger/battery swapping problem.
 
 <b>Shizhe Peng</b>. A blind box problem.
 
