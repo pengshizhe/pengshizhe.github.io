@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-89-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-91-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 {% include base_path %}
 
@@ -32,6 +32,8 @@ Xiyang Hou, Peiqiang Guo<sup>*</sup>, and <b>Shizhe Peng</b>. Is channel coordin
 
 Ideas
 ======
+
+<b>Shizhe Peng</b>. Finitely durable goods and ADP.
 
 <b>Shizhe Peng</b>. A luck-and-skill/optimal control problem.
 
