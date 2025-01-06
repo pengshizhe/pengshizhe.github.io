@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-91-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-94-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 {% include base_path %}
 
@@ -16,7 +16,7 @@ You can also find my articles on my Google Scholar profile <a href='https://scho
 Working papers
 ======
 
-Xiao-Lin Wang, <b>Shizhe Peng</b>, and Xiaoge Zhang<sup>*</sup>. Price competition in an oligopolistic extended warranty market. <i>European Journal of Operational Research</i>. Major revision.
+Xiao-Lin Wang, <b>Shizhe Peng</b>, and Xiaoge Zhang<sup>*</sup>. Extended warranty pricing in a competitive aftermarket under Logit demand. <i>European Journal of Operational Research</i>. Under 2nd round review.
 
 Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. <i>Reliability Engineering & System Safety</i>. Major revision.
 
