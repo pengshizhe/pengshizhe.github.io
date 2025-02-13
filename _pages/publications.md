@@ -16,11 +16,11 @@ You can also find my articles on my Google Scholar profile <a href='https://scho
 Working papers
 ======
 
-Xiao-Lin Wang, <b>Shizhe Peng</b>, and Xiaoge Zhang<sup>*</sup>. Extended warranty pricing in a competitive aftermarket under Logit demand. <i>European Journal of Operational Research</i>. Under 2nd round review.
+Xiao-Lin Wang, <b>Shizhe Peng</b>, and Xiaoge Zhang<sup>*</sup>. Extended warranty pricing in a competitive aftermarket under Logit demand. <i>European Journal of Operational Research</i>. Under 2nd round revision.
 
 Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. <i>Reliability Engineering & System Safety</i>. Major revision.
 
-Esther Yanfei Jin,<b>Shizhe Peng</b>, and Wei Jiang<sup>*</sup>. Unveiling the casual mechanisms behind moral hazard under the IoT technology. To be submitted to <i>Information Technology and Management</i>.
+Esther Yanfei Jin,<b>Shizhe Peng</b>, and Wei Jiang<sup>*</sup>. Unveiling the casual mechanisms behind moral hazard under the IoT technology. <i>Annals of Operations Research</i>. Under review.
 
 Xiyang Hou, Peiqiang Guo<sup>*</sup>, and <b>Shizhe Peng</b>. Is channel coordination always better in the presence of strategic customers?. To be submitted to <i>International Journal of Production Economics</i>.
 
