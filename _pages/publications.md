@@ -16,7 +16,7 @@ You can also find my articles on my Google Scholar profile <a href='https://scho
 Working papers
 ======
 
-Xiao-Lin Wang, <b>Shizhe Peng</b>, and Xiaoge Zhang<sup>*</sup>. Extended warranty pricing in a competitive aftermarket under Logit demand. <i>European Journal of Operational Research</i>. Minor revision.
+Xiao-Lin Wang, <b>Shizhe Peng</b>, and Xiaoge Zhang<sup>*</sup>. Extended warranty pricing in a competitive aftermarket under Logit demand. <i>European Journal of Operational Research</i>. Accepted.
 
 Xiao-Lin Wang, <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Spare parts provisioning with installed base information: An integrated forecasting and stocking approach. <i>Reliability Engineering & System Safety</i>. Major revision.
 
