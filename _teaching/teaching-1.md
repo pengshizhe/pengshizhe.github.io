@@ -33,7 +33,7 @@ Homework
 | Homework                | Answer        | 
 | :------------:            | :------------:  | 
 | [hw1](http://pengshizhe.github.io/files/EI/hw1.pdf)    | [hw1_answer](http://pengshizhe.github.io/files/EI/hw1_answer.pdf)    | 
-| [hw2](http://pengshizhe.github.io/files/EI/hw2.pdf)    | [hw1_answer](http://pengshizhe.github.io/files/EI/hw2_answer.pdf)    | 
+| [hw2](http://pengshizhe.github.io/files/EI/hw2.pdf)    | [hw2_answer](http://pengshizhe.github.io/files/EI/hw2_answer.pdf)    | 
 
 Grading
 ======
