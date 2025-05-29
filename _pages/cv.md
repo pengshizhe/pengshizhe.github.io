@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.M. in Information Management and Information System, Central University of Finance and Economics, 2015
+* B.M. in Information Management and Information Systems, Central University of Finance and Economics, 2015
 * Ph.D. in Management Science and Engineering, Shanghai Jiao Tong University, 2022
 
 Work experience
