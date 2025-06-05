@@ -22,6 +22,8 @@ Yanfei Jin, <b>Shizhe Peng</b>, Wei Jiang<sup>*</sup>, and Zhiqiang Zheng. Unvei
 
 Xiyang Hou, Peiqiang Guo<sup>*</sup>, and <b>Shizhe Peng</b>. Is channel coordination always better in the presence of strategic customers?. <i>International Journal of Production Economics</i>. Under review.
 
+Xiao-Lin Wang and <b>Shizhe Peng</b><sup>*</sup>. Price competition under the consider-then-choose Logit model. Working in process.
+
 <b>Shizhe Peng</b>, Quanchen Liu<sup>*</sup>, and Xiyang Hou. Pricing extended warranties in the presence of consumer reliability learning. Working in process.
 
 <b>Shizhe Peng</b> and Xiao-Lin Wang. ADP and RTR. Working in process.
