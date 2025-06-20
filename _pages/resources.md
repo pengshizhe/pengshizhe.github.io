@@ -9,12 +9,12 @@ author_profile: true
 * <i>Game Theory: An Introduction</i> by Steven Tadelis
 * <i>A Course in Game Theory</i> by Martin J. Osborne and Ariel Rubinstein
 * [<i>Game Theory</i> by Ben Polak at Yale University](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B) ✅
-* [<i>Game Theory I and II</i> by Jonathan Gruber at MIT](https://www.game-theory-class.org/)
+* [<i>Game Theory I and II</i> by Matthew O. Jackson, Kevin Leyton-Brown, and Yoav Shoham at Stanford University](https://www.game-theory-class.org/)
 
 ## Microeconomics
 * <i>Principles of Economics</i> by N. Gregory Mankiw
 * [<i>经济学原理</i> by 钱颖一 and 钟笑寒 at 清华大学](https://www.bilibili.com/video/BV1am4y1D73g/?spm_id_from=333.1387.favlist.content.click&vd_source=5e2efe1acd565d3221bd997c2da42079)
-* [<i>Principles of Microeconomics</i> by Matthew O. Jackson, Kevin Leyton-Brown, and Yoav Shoham at Stanford University](https://www.game-theory-class.org/)
+* [<i>Principles of Microeconomics</i> by by Jonathan Gruber at MIT](https://www.bilibili.com/video/BV1bRo7YEEnR/?spm_id_from=333.1387.favlist.content.click&vd_source=5e2efe1acd565d3221bd997c2da42079)
 
 ## Real Analysis
 * <i>Real Analysis: Measure Theory, Integration, and Hilbert Spaces</i> by Elias M. Stein and Rami Shakarchi
