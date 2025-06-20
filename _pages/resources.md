@@ -14,7 +14,7 @@ author_profile: true
 ## Microeconomics
 * <i>Principles of Economics</i> by N. Gregory Mankiw
 * [<i>经济学原理</i> by 钱颖一 and 钟笑寒 at 清华大学](https://www.bilibili.com/video/BV1am4y1D73g/?spm_id_from=333.1387.favlist.content.click&vd_source=5e2efe1acd565d3221bd997c2da42079)
-* [<i>Principles of Microeconomics</i> by by Jonathan Gruber at MIT](https://www.bilibili.com/video/BV1bRo7YEEnR/?spm_id_from=333.1387.favlist.content.click&vd_source=5e2efe1acd565d3221bd997c2da42079)
+* [<i>Principles of Microeconomics</i> by Jonathan Gruber at MIT](https://www.bilibili.com/video/BV1bRo7YEEnR/?spm_id_from=333.1387.favlist.content.click&vd_source=5e2efe1acd565d3221bd997c2da42079)
 
 ## Real Analysis
 * <i>Real Analysis: Measure Theory, Integration, and Hilbert Spaces</i> by Elias M. Stein and Rami Shakarchi
