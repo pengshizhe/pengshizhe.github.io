@@ -13,7 +13,7 @@ author_profile: true
 
 ## Microeconomics
 * <i>Principles of Economics</i> by N. Gregory Mankiw
-* [<i>经济学原理</i> by 钱颖一 and 钟笑寒 at 清华大学](https://www.bilibili.com/video/BV1am4y1D73g/?spm_id_from=333.1387.favlist.content.click&vd_source=5e2efe1acd565d3221bd997c2da42079) ✅
+* [<i>经济学原理</i> by 钱颖一 and 钟笑寒 at 清华大学](https://www.bilibili.com/video/BV1am4y1D73g/?spm_id_from=333.1387.favlist.content.click&vd_source=5e2efe1acd565d3221bd997c2da42079)
 * [<i>Principles of Microeconomics</i> by Matthew O. Jackson, Kevin Leyton-Brown, and Yoav Shoham at Stanford University](https://www.game-theory-class.org/)
 
 ## Real Analysis
