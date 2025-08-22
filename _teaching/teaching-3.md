@@ -11,7 +11,7 @@ date: 2025-01-01
 
 Textbook
 ======
-[<i>Principles of Economics</i> by N. Gregory Mankiw](http://pengshizhe.github.io/files/EI/策略思维.pdf)
+[<i>Principles of Economics</i> by N. Gregory Mankiw](http://pengshizhe.github.io/files/M/10e.pdf)
 
 Slides
 ======
