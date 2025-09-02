@@ -24,7 +24,7 @@ Xiao-Lin Wang and <b>Shizhe Peng</b><sup>*</sup>. Price competition under the co
 
 <b>Shizhe Peng</b>, Quanchen Liu<sup>*</sup>, and Xiyang Hou. Pricing extended warranties in the presence of consumer reliability learning. Working in process.
 
-<b>Shizhe Peng</b>. Finitely durable goods and ADP/RL.
+<b>Shizhe Peng</b>. Finitely durable goods and ADP/RL. Working in process.
 
 <b>Shizhe Peng</b> and Xiao-Lin Wang. ADP and RTR. Working in process.
 
