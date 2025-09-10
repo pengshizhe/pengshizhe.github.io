@@ -16,7 +16,7 @@ You can also find my articles on my Google Scholar profile <a href='https://scho
 Working papers
 ======
 
-Yanfei Jin, <b>Shizhe Peng</b>, Wei Jiang<sup>*</sup>, and Zhiqiang Zheng. Unveiling the casual mechanisms behind moral hazard under the IoT technology. <i>Journal of Systems Science and Systems Engineering</i>. Under review.
+Yanfei Jin, <b>Shizhe Peng</b>, Wei Jiang<sup>*</sup>, and Zhiqiang Zheng. Unveiling the casual mechanisms behind moral hazard under the IoT technology. <i>Journal of Systems Science and Systems Engineering</i>. Major revision.
 
 Xiyang Hou, Peiqiang Guo<sup>*</sup>, and <b>Shizhe Peng</b>. Is channel coordination always better in the presence of strategic customers?. <i>Transportation Research Part E: Logistics and Transportation Review</i>. Under review.
 
