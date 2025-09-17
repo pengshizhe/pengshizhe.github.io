@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-121-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-119-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 {% include base_path %}
 
@@ -24,6 +24,8 @@ Xiao-Lin Wang and <b>Shizhe Peng</b><sup>*</sup>. Price competition under the co
 
 <b>Shizhe Peng</b>, Quanchen Liu<sup>*</sup>, and Xiyang Hou. Pricing extended warranties in the presence of consumer reliability learning. Working in process.
 
+<b>Shizhe Peng</b> and Wenpo Huang. A luck-and-skill/optimal control problem.
+
 <b>Shizhe Peng</b>. Finitely durable goods and ADP/RL. Working in process.
 
 <b>Shizhe Peng</b> and Xiao-Lin Wang. ADP and RTR. Working in process.
@@ -34,8 +36,6 @@ Xiao-Lin Wang and <b>Shizhe Peng</b><sup>*</sup>. Price competition under the co
 
 Ideas
 ======
-
-<b>Shizhe Peng</b>. A luck-and-skill/optimal control problem.
 
 <b>Shizhe Peng</b>. A d warranty problem.
 
