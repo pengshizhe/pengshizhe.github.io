@@ -22,7 +22,7 @@ Xiyang Hou, Peiqiang Guo<sup>*</sup>, and <b>Shizhe Peng</b>. Is channel coordin
 
 Xiao-Lin Wang and <b>Shizhe Peng</b><sup>*</sup>. Price competition under the consider-then-choose Logit model. Working in process.
 
-<b>Shizhe Peng</b>, Quanchen Liu<sup>*</sup>, and Xiyang Hou. Pricing extended warranties in the presence of consumer reliability learning. Working in process.
+<b>Shizhe Peng</b>, Quanchen Liu<sup>*</sup>, and Xiyang Hou. Extended warranty pricing in the presence of consumer reliability learning. Working in process.
 
 <b>Shizhe Peng</b> and Wenpo Huang. A luck-and-skill/optimal control problem.
 
