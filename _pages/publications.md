@@ -45,7 +45,7 @@ Ideas
 
 <b>Shizhe Peng</b>. A portable charger/battery swapping problem.
 
-<b>Shizhe Peng</b>. A blind box problem.
+<b>Shizhe Peng</b>. A blind box and huangniu problem.
 
 <b>Shizhe Peng</b>. A buy-one-get-one problem.
 
