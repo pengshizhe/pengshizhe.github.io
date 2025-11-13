@@ -3,7 +3,7 @@ title: "Microeconomics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching-3
-venue: "CSUST, Digital Economy"
+venue: "CSUST, International Trade"
 date: 2026-01-01
 ---
 
@@ -25,9 +25,7 @@ Slides
 
 Grading
 ======
-Attendance: 20%
+Attendance: 40%
 
-Problem sets: 10%
-
-Final presentation: 70%
+Final presentation: 60%
    
