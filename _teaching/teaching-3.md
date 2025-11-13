@@ -18,7 +18,7 @@ Slides
 
 | 中文版                | English version        | 
 | :------------:            | :------------:  | 
-| [hw1](http://pengshizhe.github.io/files/EI/hw1.pdf)    | [hw1_answer](http://pengshizhe.github.io/files/EI/hw1_answer.pdf)    | 
+| [1. 人们如何做出决策](http://pengshizhe.github.io/files/M/1. 人们如何做出决策.pdf)    | [1. How people make decisions](http://pengshizhe.github.io/files/M/1. How people make decisions.pdf)    | 
 
 Grading
 ======
