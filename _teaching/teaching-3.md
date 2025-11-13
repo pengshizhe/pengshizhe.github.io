@@ -15,12 +15,8 @@ Textbook
 
 Slides
 ======
-[1. 导言](http://pengshizhe.github.io/files/EI/1. 导言.pdf)
 
-Homework
-======
-
-| Homework                | Answer        | 
+| 中文版                | English version        | 
 | :------------:            | :------------:  | 
 | [hw1](http://pengshizhe.github.io/files/EI/hw1.pdf)    | [hw1_answer](http://pengshizhe.github.io/files/EI/hw1_answer.pdf)    | 
 
