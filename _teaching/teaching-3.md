@@ -22,6 +22,7 @@ Slides
 | [2. 人们如何相互影响](http://pengshizhe.github.io/files/M/2. 人们如何相互影响.pdf)    | [2. How do people influence each other](http://pengshizhe.github.io/files/M/2. How do people influence each other.pdf)    | 
 | [3. 整体经济如何运行](http://pengshizhe.github.io/files/M/3. 整体经济如何运行.pdf)    | [3. How the Overall Economy Works](http://pengshizhe.github.io/files/M/3. How the Overall Economy Works.pdf)    | 
 | [4. 像经济学家一样思考](http://pengshizhe.github.io/files/M/4. 像经济学家一样思考.pdf)    | [4. Thinking Like an Economist](http://pengshizhe.github.io/files/M/4. Thinking Like an Economist.pdf)    | 
+| [5. 大多数经济学家都认同的4个命题](http://pengshizhe.github.io/files/M/5. 大多数经济学家都认同的4个命题.pdf)    | [5. Four Propositions that Most Economists Agree on](http://pengshizhe.github.io/files/M/5. Four Propositions that Most Economists Agree on.pdf)    | 
 
 Grading
 ======
