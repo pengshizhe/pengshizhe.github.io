@@ -33,9 +33,9 @@ Xiao-Lin Wang and <b>Shizhe Peng</b><sup>*</sup>. Price competition under the co
 Ideas
 ======
 
-<b>Shizhe Peng</b>. A PM and iv warranty problem. Working in process.
+<b>Shizhe Peng</b>. A PM and iv warranty problem.
 
-<b>Shizhe Peng</b>. Daixiadan. Working in process.
+<b>Shizhe Peng</b>. Daixiadan.
 
 <b>Shizhe Peng</b>. A d warranty problem.
 
