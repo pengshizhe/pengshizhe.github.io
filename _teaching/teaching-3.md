@@ -20,9 +20,9 @@ Slides
 | :--------------:            | :--------------:  | 
 | [1. 人们如何做出决策](http://pengshizhe.github.io/files/M/1. 人们如何做出决策_compressed.pdf)    | [1. How people make decisions](http://pengshizhe.github.io/files/M/1. How people make decisions_compressed.pdf)    | 
 | [2. 人们如何相互影响](http://pengshizhe.github.io/files/M/2. 人们如何相互影响_compressed.pdf)    | [2. How do people influence each other](http://pengshizhe.github.io/files/M/2. How do people influence each other_compressed.pdf)    | 
-| [3. 整体经济如何运行](http://pengshizhe.github.io/files/M/3. 整体经济如何运行_compressed.pdf)    | [3. How the Overall Economy Works](http://pengshizhe.github.io/files/M/3. How the overall economy works_compressed.pdf)    | 
-| [4. 像经济学家一样思考](http://pengshizhe.github.io/files/M/4. 像经济学家一样思考_compressed.pdf)    | [4. Thinking Like an Economist](http://pengshizhe.github.io/files/M/4. Thinking like an economist_compressed.pdf)    | 
-| [5. 大多数经济学家都认同的4个命题](http://pengshizhe.github.io/files/M/5. 大多数经济学家都认同的4个命题_compressed.pdf)    | [5. Four Propositions that Most Economists Agree on](http://pengshizhe.github.io/files/M/5. Four propositions that most economists agree on_compressed.pdf)    | 
+| [3. 整体经济如何运行](http://pengshizhe.github.io/files/M/3. 整体经济如何运行_compressed.pdf)    | [3. How the overall economy works](http://pengshizhe.github.io/files/M/3. How the overall economy works_compressed.pdf)    | 
+| [4. 像经济学家一样思考](http://pengshizhe.github.io/files/M/4. 像经济学家一样思考_compressed.pdf)    | [4. Thinking like an economist](http://pengshizhe.github.io/files/M/4. Thinking like an economist_compressed.pdf)    | 
+| [5. 大多数经济学家都认同的4个命题](http://pengshizhe.github.io/files/M/5. 大多数经济学家都认同的4个命题_compressed.pdf)    | [5. Four propositions that most economists agree on](http://pengshizhe.github.io/files/M/5. Four propositions that most economists agree on_compressed.pdf)    | 
 | [6. 市场的供给和需求](http://pengshizhe.github.io/files/M/6. 市场的供给和需求_compressed.pdf)    | [6. Supply and demand in markets](http://pengshizhe.github.io/files/M/6. Supply and demand in markets_compressed.pdf)    | 
 
 Grading
