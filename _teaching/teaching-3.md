@@ -18,7 +18,7 @@ Slides
 
 | 中文版                | English version        | 
 | :--------------:            | :--------------:  | 
-| [1. 人们如何做出决策](http://pengshizhe.github.io/files/M/1. 人们如何做出决策.pdf)    | [1. How people make decisions](http://pengshizhe.github.io/files/M/1. How people make decisions.pdf)    | 
+| [1. 人们如何做出决策](http://pengshizhe.github.io/files/M/1. 人们如何做出决策_compressed.pdf)    | [1. How people make decisions](http://pengshizhe.github.io/files/M/1. How people make decisions.pdf)    | 
 | [2. 人们如何相互影响](http://pengshizhe.github.io/files/M/2. 人们如何相互影响.pdf)    | [2. How do people influence each other](http://pengshizhe.github.io/files/M/2. How do people influence each other.pdf)    | 
 | [3. 整体经济如何运行](http://pengshizhe.github.io/files/M/3. 整体经济如何运行.pdf)    | [3. How the Overall Economy Works](http://pengshizhe.github.io/files/M/3. How the Overall Economy Works.pdf)    | 
 | [4. 像经济学家一样思考](http://pengshizhe.github.io/files/M/4. 像经济学家一样思考.pdf)    | [4. Thinking Like an Economist](http://pengshizhe.github.io/files/M/4. Thinking Like an Economist.pdf)    | 
