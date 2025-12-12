@@ -24,6 +24,7 @@ Slides
 | [4. 像经济学家一样思考](http://pengshizhe.github.io/files/M/4. 像经济学家一样思考_compressed.pdf)    | [4. Thinking like an economist](http://pengshizhe.github.io/files/M/4. Thinking like an economist_compressed.pdf)    | 
 | [5. 大多数经济学家都认同的4个命题](http://pengshizhe.github.io/files/M/5. 大多数经济学家都认同的4个命题_compressed.pdf)    | [5. Four propositions that most economists agree on](http://pengshizhe.github.io/files/M/5. Four propositions that most economists agree on_compressed.pdf)    | 
 | [6. 市场的供给和需求](http://pengshizhe.github.io/files/M/6. 市场的供给和需求_compressed.pdf)    | [6. Supply and demand in markets](http://pengshizhe.github.io/files/M/6. Supply and demand in markets_compressed.pdf)    | 
+| [7. 弹性及其应用](http://pengshizhe.github.io/files/M/7. 弹性及其应用_compressed.pdf)    | [7. Elasticity and its applications](http://pengshizhe.github.io/files/M/7. Elasticity and its applications_compressed.pdf)    | 
 
 Grading
 ======
