@@ -27,6 +27,12 @@ Slides
 
 [6. 序贯博弈（二）](http://pengshizhe.github.io/files/EI/6. 序贯博弈（二）.pdf)
 
+[7. 子博弈完美纳什均衡](http://pengshizhe.github.io/files/EI/7. 子博弈完美纳什均衡.pdf)
+
+[8. 重复博弈](http://pengshizhe.github.io/files/EI/8. 重复博弈.pdf)
+
+[9. 不对称信息](http://pengshizhe.github.io/files/EI/9. 不对称信息.pdf)
+
 Homework
 ======
 
