@@ -25,6 +25,8 @@ Slides
 | [5. 大多数经济学家都认同的4个命题](http://pengshizhe.github.io/files/M/5. 大多数经济学家都认同的4个命题_compressed.pdf)    | [5. Four propositions that most economists agree on](http://pengshizhe.github.io/files/M/5. Four propositions that most economists agree on_compressed.pdf)    | 
 | [6. 市场的供给和需求](http://pengshizhe.github.io/files/M/6. 市场的供给和需求_compressed.pdf)    | [6. Supply and demand in markets](http://pengshizhe.github.io/files/M/6. Supply and demand in markets_compressed.pdf)    | 
 | [7. 弹性及其应用](http://pengshizhe.github.io/files/M/7. 弹性及其应用_compressed.pdf)    | [7. Elasticity and its applications](http://pengshizhe.github.io/files/M/7. Elasticity and its applications_compressed.pdf)    | 
+| [8. 供给、需求和政府政策](http://pengshizhe.github.io/files/M/8. 供给、需求和政府政策_compressed.pdf)    | [8. Supply, demand, and government policy](http://pengshizhe.github.io/files/M/8. Supply, demand, and government policy_compressed.pdf)    |
+| [9. 消费者、生产者和市场效率](http://pengshizhe.github.io/files/M/9. 消费者、生产者和市场效率_compressed.pdf)    | [9. Consumers, producers, and market efficiency](http://pengshizhe.github.io/files/M/9. Consumers, producers, and market efficiency_compressed.pdf)    |
 
 Grading
 ======
