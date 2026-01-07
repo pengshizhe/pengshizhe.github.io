@@ -28,7 +28,7 @@ Xiao-Lin Wang and <b>Shizhe Peng</b><sup>*</sup>. Price competition under the co
 
 <b>Shizhe Peng</b> and Wenpo Huang. A luck-and-skill/optimal control problem.
 
-<b>Shizhe Peng</b>. Finitely durable goods and ADP/RL. Working in process.
+<b>Shizhe Peng</b>. Finitely durable goods and RL. Working in process.
 
 <b>Shizhe Peng</b>. ADP. Working in process.
 
