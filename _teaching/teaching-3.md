@@ -27,6 +27,7 @@ Slides
 | [7. 弹性及其应用](http://pengshizhe.github.io/files/M/7. 弹性及其应用_compressed.pdf)    | [7. Elasticity and its applications](http://pengshizhe.github.io/files/M/7. Elasticity and its applications_compressed.pdf)    | 
 | [8. 供给、需求和政府政策](http://pengshizhe.github.io/files/M/8. 供给、需求和政府政策_compressed.pdf)    | [8. Supply, demand, and government policy](http://pengshizhe.github.io/files/M/8. Supply, demand, and government policy_compressed.pdf)    |
 | [9. 消费者、生产者和市场效率](http://pengshizhe.github.io/files/M/9. 消费者、生产者和市场效率_compressed.pdf)    | [9. Consumers, producers, and market efficiency](http://pengshizhe.github.io/files/M/9. Consumers, producers, and market efficiency_compressed.pdf)    |
+| [10. 福利经济学的应用](http://pengshizhe.github.io/files/M/10. 福利经济学的应用_compressed.pdf)    | [10. Applications of welfare economics](http://pengshizhe.github.io/files/M/10. Applications of welfare economics_compressed.pdf)    |
 
 Grading
 ======
