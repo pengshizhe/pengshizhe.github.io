@@ -32,6 +32,8 @@ Xiao-Lin Wang and <b>Shizhe Peng</b><sup>*</sup>. Price competition under the co
 
 <b>Shizhe Peng</b>. ADP. Working in process.
 
+<b>Shizhe Peng</b>. MAB and PM. Working in process.
+
 Ideas
 ======
 
