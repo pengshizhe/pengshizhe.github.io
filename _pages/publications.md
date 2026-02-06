@@ -20,9 +20,9 @@ Yanfei Jin, <b>Shizhe Peng</b>, Wei Jiang<sup>*</sup>, and Zhiqiang Zheng. Unrav
 
 Xiyang Hou, Peiqiang Guo<sup>*</sup>, and <b>Shizhe Peng</b>. Is channel coordination always better in the presence of strategic customers?. <i>Journal of the Operational Research Society</i>. Under review.
 
-Xiao-Lin Wang and <b>Shizhe Peng</b><sup>*</sup>. Price competition under the consider-then-choose Logit model. Working in process.
+<b>Shizhe Peng</b>, Quanchen Liu<sup>*</sup>, Xiyang Hou, and Xiao-Lin Wang. Extended warranty pricing in the presence of consumer reliability learning. <i>European Journal of Operational Research</i>. To be submitted.
 
-<b>Shizhe Peng</b>, Quanchen Liu<sup>*</sup>, and Xiyang Hou. Extended warranty pricing in the presence of consumer reliability learning. Working in process.
+Xiao-Lin Wang and <b>Shizhe Peng</b><sup>*</sup>. Price competition under the consider-then-choose Logit model. Working in process.
 
 <b>Shizhe Peng</b> and Xiao-Lin Wang. Ob and RTR. Working in process.
 
