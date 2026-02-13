@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-129-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-128-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 {% include base_path %}
 
@@ -18,7 +18,7 @@ Working papers
 
 Yanfei Jin, <b>Shizhe Peng</b>, Wei Jiang<sup>*</sup>, and Zhiqiang Zheng. Unraveling the causal mechanisms behind moral hazard in China's Auto Industry. <i>Journal of Systems Science and Systems Engineering</i>. Accepted.
 
-Xiyang Hou, Peiqiang Guo<sup>*</sup>, and <b>Shizhe Peng</b>. Is channel coordination always better in the presence of strategic customers?. <i>Journal of the Operational Research Society</i>. Under review.
+Xiyang Hou, Peiqiang Guo<sup>*</sup>, and <b>Shizhe Peng</b>. Is channel coordination always better in the presence of strategic customers?. <i>IEEE Transactions on Engineering Management</i>. Under review.
 
 <b>Shizhe Peng</b>, Quanchen Liu<sup>*</sup>, Xiyang Hou, and Xiao-Lin Wang. Extended warranty pricing in the presence of consumer reliability learning. <i>European Journal of Operational Research</i>. To be submitted.
 
