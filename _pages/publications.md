@@ -16,7 +16,7 @@ You can also find my articles on my Google Scholar profile <a href='https://scho
 Working papers
 ======
 
-Yanfei Jin, <b>Shizhe Peng</b>, Wei Jiang<sup>*</sup>, and Zhiqiang Zheng. Unraveling the causal mechanisms behind moral hazard in China's Auto Industry. <i>Journal of Systems Science and Systems Engineering</i>. Accepted.
+Yanfei Jin, <b>Shizhe Peng</b>, Wei Jiang<sup>*</sup>, and Zhiqiang Zheng. Unraveling the causal mechanisms behind moral hazard in China's auto industry. <i>Journal of Systems Science and Systems Engineering</i>. Accepted.
 
 <b>Shizhe Peng</b>, Quanchen Liu<sup>*</sup>, Xiyang Hou, and Xiao-Lin Wang. Extended warranty pricing in the presence of consumer reliability learning. <i>IISE Transactions</i>. Submitted.
 
