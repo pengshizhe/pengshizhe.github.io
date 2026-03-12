@@ -24,7 +24,9 @@ Xiyang Hou, Peiqiang Guo<sup>*</sup>, and <b>Shizhe Peng</b>. Is channel coordin
 
 Xiao-Lin Wang and <b>Shizhe Peng</b><sup>*</sup>. Price competition under the consider-then-choose Logit model. Working in process.
 
-<b>Shizhe Peng</b> and Xiao-Lin Wang. Ob and RTR. Working in process.
+<b>Shizhe Peng</b> and Xiao-Lin Wang. Right to repair, planned obsolescence, and extended warranty. Working in process.
+
+<b>Shizhe Peng</b>. MAB and PM. Working in process.
 
 <b>Shizhe Peng</b> and Wenpo Huang. A luck-and-skill/optimal control problem.
 
@@ -32,7 +34,7 @@ Xiao-Lin Wang and <b>Shizhe Peng</b><sup>*</sup>. Price competition under the co
 
 <b>Shizhe Peng</b>. ADP. Working in process.
 
-<b>Shizhe Peng</b>. MAB and PM. Working in process.
+<b>Shizhe Peng</b>. Exclusion terms. Working in process.
 
 Ideas
 ======
