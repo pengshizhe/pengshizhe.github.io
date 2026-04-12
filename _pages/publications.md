@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-138-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-140-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 {% include base_path %}
 
@@ -16,7 +16,7 @@ You can also find my articles on my Google Scholar profile <a href='https://scho
 Working papers
 ======
 
-<b>Shizhe Peng</b>, Quanchen Liu<sup>*</sup>, Xiyang Hou, and Xiao-Lin Wang. Extended warranty pricing in the presence of consumer reliability learning. <i>IISE Transactions</i>. Under review.
+<b>Shizhe Peng</b>, Quanchen Liu<sup>*</sup>, Xiyang Hou, and Xiao-Lin Wang. Extended warranty pricing in the presence of consumer reliability learning. <i>IISE Transactions</i>. Major revision.
 
 Xiyang Hou, Peiqiang Guo<sup>*</sup>, and <b>Shizhe Peng</b>. Is channel coordination always better in the presence of strategic customers?. <i>IEEE Transactions on Engineering Management</i>. Under review.
 
