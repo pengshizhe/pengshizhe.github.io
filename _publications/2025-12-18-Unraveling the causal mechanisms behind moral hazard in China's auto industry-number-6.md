@@ -6,5 +6,5 @@ excerpt: '<div style="text-align: justify;">Moral hazard in auto insurance arise
 date: 2025-12-18
 venue: 'Journal of Systems Science and Systems Engineering'
 paperurl: 'http://pengshizhe.github.io/files/paper6.pdf'
-citation: 'Esther Yanfei Jin, <b>Shizhe Peng</b>, Wei Jiang<sup>*</sup>, and Zhiqiang Zheng. (2026). <i>Journal of Systems Science and Systems Engineering</i>, accepted.'
+citation: 'Esther Yanfei Jin, <b>Shizhe Peng</b>, Wei Jiang<sup>*</sup>, and Zhiqiang Zheng. (2026). <i>Journal of Systems Science and Systems Engineering</i>, in press.'
 ---
