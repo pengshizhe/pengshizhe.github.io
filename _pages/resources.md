@@ -5,10 +5,6 @@ permalink: /resources/
 author_profile: true
 ---
 
-## Books of the Year
-<h2 id="{{ year | slugify }}" class="archive__subtitle">2026</h2>
-* <a href="https://book.douban.com/subject/26214776/" style="text-decoration:none; color:black;">《实力、运气与成功》，迈克尔·莫布森</a>
-
 ## Game Theory
 * <i>Game Theory: An Introduction</i> by Steven Tadelis
 * <i>A Course in Game Theory</i> by Martin J. Osborne and Ariel Rubinstein
