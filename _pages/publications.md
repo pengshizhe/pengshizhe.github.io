@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-148-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-153-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 {% include base_path %}
 
@@ -20,7 +20,7 @@ Working papers
 
 Xiyang Hou, Peiqiang Guo<sup>*</sup>, and <b>Shizhe Peng</b>. Is channel coordination always better in the presence of strategic customers?. <i>IEEE Transactions on Engineering Management</i>. Under review.
 
-Xiao-Lin Wang and <b>Shizhe Peng</b><sup>*</sup>. Price competition under the consider-then-choose Logit model. Working in process.
+Xiao-Lin Wang and <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Price competition under the consider-then-choose Logit model. <i>Production and Operations Management</i>. Under review.
 
 <b>Shizhe Peng</b> and Xiao-Lin Wang. Right to repair, planned obsolescence, and extended warranty. Working in process.
 
