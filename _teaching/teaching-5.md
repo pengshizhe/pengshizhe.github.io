@@ -18,16 +18,9 @@ Slides
 
 | 中文版                | English version        | 
 | :--------------:            | :--------------:  | 
-| [1. 人们如何做出决策](http://pengshizhe.github.io/files/M/1. 人们如何做出决策_compressed.pdf)    | [1. How people make decisions](http://pengshizhe.github.io/files/M/1. How people make decisions_compressed.pdf)    | 
-| [2. 人们如何相互影响](http://pengshizhe.github.io/files/M/2. 人们如何相互影响_compressed.pdf)    | [2. How do people influence each other](http://pengshizhe.github.io/files/M/2. How do people influence each other_compressed.pdf)    | 
-| [3. 整体经济如何运行](http://pengshizhe.github.io/files/M/3. 整体经济如何运行_compressed.pdf)    | [3. How the overall economy works](http://pengshizhe.github.io/files/M/3. How the overall economy works_compressed.pdf)    | 
-| [4. 像经济学家一样思考](http://pengshizhe.github.io/files/M/4. 像经济学家一样思考_compressed.pdf)    | [4. Thinking like an economist](http://pengshizhe.github.io/files/M/4. Thinking like an economist_compressed.pdf)    | 
-| [5. 大多数经济学家都认同的4个命题](http://pengshizhe.github.io/files/M/5. 大多数经济学家都认同的4个命题_compressed.pdf)    | [5. Four propositions that most economists agree on](http://pengshizhe.github.io/files/M/5. Four propositions that most economists agree on_compressed.pdf)    | 
-| [6. 市场的供给和需求](http://pengshizhe.github.io/files/M/6. 市场的供给和需求_compressed.pdf)    | [6. Supply and demand in markets](http://pengshizhe.github.io/files/M/6. Supply and demand in markets_compressed.pdf)    | 
-| [7. 弹性及其应用](http://pengshizhe.github.io/files/M/7. 弹性及其应用_compressed.pdf)    | [7. Elasticity and its applications](http://pengshizhe.github.io/files/M/7. Elasticity and its applications_compressed.pdf)    | 
-| [8. 供给、需求和政府政策](http://pengshizhe.github.io/files/M/8. 供给、需求和政府政策_compressed.pdf)    | [8. Supply, demand, and government policy](http://pengshizhe.github.io/files/M/8. Supply, demand, and government policy_compressed.pdf)    |
-| [9. 消费者、生产者和市场效率](http://pengshizhe.github.io/files/M/9. 消费者、生产者和市场效率_compressed.pdf)    | [9. Consumers, producers, and market efficiency](http://pengshizhe.github.io/files/M/9. Consumers, producers, and market efficiency_compressed.pdf)    |
-| [10. 福利经济学的应用](http://pengshizhe.github.io/files/M/10. 福利经济学的应用_compressed.pdf)    | [10. Applications of welfare economics](http://pengshizhe.github.io/files/M/10. Applications of welfare economics_compressed.pdf)    |
+| [1. 数据简介](http://pengshizhe.github.io/files/STAT/1. 数据简介.pdf)    | [1. Intro to Data](http://pengshizhe.github.io/files/STAT/1. Intro to Data.pdf)   | 
+| [2. 数据总结](http://pengshizhe.github.io/files/STAT/2. 数据总结.pdf)    | [2. Summarizing Data](http://pengshizhe.github.io/files/STAT/2. Summarizing Data.pdf)   | 
+
 
 Grading
 ======
