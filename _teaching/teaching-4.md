@@ -15,12 +15,11 @@ Textbook
 
 Slides
 ======
-[1. 导言](http://pengshizhe.github.io/files/EI/1. 导言.pdf)
+[1. 现代商业环境中的质量改进](http://pengshizhe.github.io/files/IBD/1. 现代商业环境中的质量改进.pdf)
 
-[2. 最优对策和纳什均衡](http://pengshizhe.github.io/files/EI/2. 最优对策和纳什均衡.pdf)
+[2. DMAIC流程](http://pengshizhe.github.io/files/IBD/2. DMAIC流程.pdf)
 
-[3. 经典博弈模型](http://pengshizhe.github.io/files/EI/3. 经典博弈模型.pdf)
-
+[3. 过程质量建模](http://pengshizhe.github.io/files/IBD/3. 过程质量建模.pdf)
 
 Homework
 ======
