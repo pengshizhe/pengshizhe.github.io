@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-162-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+You can also find my articles on my Google Scholar profile <a href='https://scholar.google.com/citations?user=V2KUfigAAAAJ&hl'><img src="https://img.shields.io/badge/citations%20-166-9cf?style=flat-square&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 {% include base_path %}
 
@@ -18,9 +18,9 @@ Working papers
 
 <b>Shizhe Peng</b>, Quanchen Liu<sup>*</sup>, Xiyang Hou, and Xiao-Lin Wang. Extended warranty pricing in the presence of consumer reliability learning. <i>IISE Transactions</i>. Major revision.
 
-Xiyang Hou, Peiqiang Guo<sup>*</sup>, and <b>Shizhe Peng</b>. Is channel coordination always better in the presence of strategic customers?. <i>IEEE Transactions on Engineering Management</i>. Under review.
+Xiyang Hou, Peiqiang Guo<sup>*</sup>, and <b>Shizhe Peng</b>. Is channel coordination always better in the presence of strategic customers?.
 
-Xiao-Lin Wang and <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Price competition under the consider-then-choose Logit model. <i>Production and Operations Management</i>. Under review.
+Xiao-Lin Wang and <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. Price competition under the consider-then-choose Logit model.
 
 <b>Shizhe Peng</b> and Xiao-Lin Wang. Right to repair, planned obsolescence, and extended warranty. Working in process.
 
@@ -36,6 +36,8 @@ Xiao-Lin Wang and <b>Shizhe Peng</b><sup>*</sup>, Xiaoge Zhang, and Jianyu Xu. P
 
 Ideas
 ======
+
+<b>Shizhe Peng</b>. Care for depressed patients.
 
 <b>Shizhe Peng</b>. GEO.
 
