@@ -20,7 +20,7 @@ author_profile: true
 ## 具身智能
 
 ## 电力市场
-* [<i>电力市场概论</i>]([https://www.bilibili.com/video/BV1tU4y187xz/?spm_id_from=333.337.search-card.all.click&vd_source=5e2efe1acd565d3221bd997c2da42079](https://www.xuetangx.com/course/THU0201Kc001158/31377003?channel=i.area.learn_title)) by 夏清和钟海旺 at 清华大学
+* [<i>电力市场概论</i>](https://www.xuetangx.com/course/THU0201Kc001158/31377003?channel=i.area.learn_title) by 夏清 and 钟海旺 at 清华大学
 
 ## 强化学习
-
+* [<i>强化学习的数学原理</i>](https://www.bilibili.com/video/BV1sd4y167NS/?spm_id_from=333.337.search-card.all.click&vd_source=5e2efe1acd565d3221bd997c2da42079) by 赵世钰 at 西湖大学
