@@ -20,6 +20,8 @@ author_profile: true
 * [<i>Deep Learning for Computer Vision</i>](https://www.bilibili.com/video/BV1F3NY6kERr/?spm_id_from=333.337.search-card.all.click) by Fei-Fei Li et. al at Stanford University
 
 ## 具身智能
+* [<i>Modern Robotics</i>](https://www.bilibili.com/video/BV1F3NY6kERr/?spm_id_from=333.337.search-card.all.click) by Kevin Lynch at Northwestern University
+* [<i>Advanced Robotics</i>](https://www.bilibili.com/video/BV1Lo4y187aN/?spm_id_from=333.337.search-card.all.click&vd_source=5e2efe1acd565d3221bd997c2da42079) by Pieter Abbeel at University of California at Berkeley
 
 ## 电力市场
 * [<i>电力市场概论</i>](https://www.xuetangx.com/course/THU0201Kc001158/31377003?channel=i.area.learn_title) by 夏清 and 钟海旺 at 清华大学
