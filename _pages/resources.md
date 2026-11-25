@@ -16,6 +16,7 @@ author_profile: true
 * [<i>Psychology and Economics</i>](https://www.bilibili.com/video/BV1fvvWBJEvN/?spm_id_from=333.337.search-card.all.click&vd_source=5e2efe1acd565d3221bd997c2da42079) by Frank Schilbach at MIT
 
 ## AI
+* [<i>Deep Learning for Computer Vision</i>](https://www.bilibili.com/video/BV1F3NY6kERr/?spm_id_from=333.337.search-card.all.click) by Fei-Fei Li et. al at Stanford University
 
 ## 具身智能
 
