@@ -26,3 +26,4 @@ author_profile: true
 
 ## 强化学习
 * [<i>强化学习的数学原理</i>](https://www.bilibili.com/video/BV1sd4y167NS/?spm_id_from=333.337.search-card.all.click&vd_source=5e2efe1acd565d3221bd997c2da42079) by 赵世钰 at 西湖大学
+* [<i>Deep Reinforcement Learning</i>](https://www.bilibili.com/video/BV1Kc411D7W8/?spm_id_from=333.337.search-card.all.click&vd_source=5e2efe1acd565d3221bd997c2da42079) by Sergey Levine at UC Berkeley
